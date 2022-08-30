@@ -29,6 +29,11 @@ const styles = StyleSheet.create({
     number:{
         fontSize:80,
         color:'#fff'
+    },
+
+    boxButton:{
+        marginTop:40,
+        width:170,
     }
 
 })
